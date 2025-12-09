@@ -8,4 +8,5 @@ app.include_router(router)
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Coupon API! Go to /docs to test it."}
+
+    return {"message": "Wdghjdkfghjdfkhgjsdfo /docs to test it."}
